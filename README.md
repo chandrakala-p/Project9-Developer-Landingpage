@@ -10,7 +10,7 @@ Chandrakala P
 
 ### Live project Link:
 
-[project link](https://we-design-page-project8.netlify.app/)
+[project link](https://developer-land-page-project9.netlify.app/)
 
 ## What I learnt from this Project?
 
